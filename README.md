@@ -4,7 +4,7 @@ A controlled environment designed to simulate cyber attacks, generate telemetry,
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The Detection Lab project aimed to:
 
@@ -15,7 +15,7 @@ The Detection Lab project aimed to:
 
 ---
 
-## 🧠 Skills Learned
+## Skills Learned
 
 - Advanced understanding of SIEM concepts and practical application  
 - Proficiency in analyzing and interpreting network logs  
@@ -25,7 +25,7 @@ The Detection Lab project aimed to:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Security Information and Event Management (SIEM)**  
   Used for log ingestion, correlation, and analysis.
@@ -38,7 +38,7 @@ The Detection Lab project aimed to:
 
 ---
 
-## 📐 Steps
+## Steps
 
 Screenshots and workflow references:
 
@@ -53,7 +53,7 @@ These represent the telemetry generation, SIEM ingestion, and detection validati
 
 ---
 
-## 📄 Summary
+## Summary
 
 This lab provided hands-on experience with:
 
@@ -68,13 +68,13 @@ It serves as a foundational exercise for anyone pursuing detection engineering, 
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions and enhancements are welcome.  
 Please open an issue or submit a pull request.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
